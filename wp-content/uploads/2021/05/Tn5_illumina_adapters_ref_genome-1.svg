@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1411.74 1013.32" style="enable-background:new 0 0 1411.74 1013.32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{font-family:'Courier';}
+	.st2{font-size:12px;}
+	.st3{fill:#B51E43;}
+	.st4{fill:#118542;}
+	.st5{fill:#2B358E;}
+	.st6{fill:#108543;}
+	.st7{font-size:9px;}
+</style>
+<rect x="1013.34" y="736.32" class="st0" width="382.14" height="97.14"/>
+<text transform="matrix(-1 0 0 -1 1395.4766 825.8063)"><tspan x="0" y="0" class="st1 st2">i7 PCR primer</tspan><tspan x="0" y="14.4" class="st1 st2">CAAGCAGAAGACGGCATACGAGAT[i7]GTCTCGTGGGCTCGG</tspan></text>
+<rect x="0.01" y="751.9" class="st0" width="392.14" height="89.29"/>
+<text transform="matrix(1 0 0 1 0.0115 759.5706)"><tspan x="0" y="0" class="st1 st2">i5 PCR primer</tspan><tspan x="0" y="14.4" class="st1 st2">AATGATACGGCGACCACCGAGATCTACAC[i5]TCGTCGGCAGCGTC</tspan></text>
+<rect x="21.02" y="723.32" class="st0" width="488.96" height="26"/>
+<text transform="matrix(1 0 0 1 21.019 730.9849)" class="st1 st2">Read 1 sequencing primer: 5&apos;- TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG -3&apos;</text>
+<rect x="888.17" y="832.26" class="st0" width="523.57" height="17.86"/>
+<text transform="matrix(-1 0 0 -1 1411.7373 842.4484)" class="st1 st2">Read 2 sequencing primer: 5&apos;- GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG -3&apos;</text>
+<rect x="123.31" y="8.02" class="st0" width="812.07" height="66.84"/>
+<text transform="matrix(1 0 0 1 123.3142 15.6852)"><tspan x="0" y="0" class="st1 st2">From looking at figures 2, 3, and 4 of the patent I concluded that this how a single Tn5 dimer inserts adapters:</tspan><tspan x="0" y="14.4" class="st1 st2">(https://www.lens.org/images/patent/US/9080211/B2/US_9080211_B2.pdf)</tspan></text>
+<rect x="109.73" y="106.24" class="st0" width="586.42" height="19.68"/>
+<text transform="matrix(-1 0 0 -1 696.1699 118.257)"><tspan x="0" y="0" class="st3 st1 st2">5’ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</tspan><tspan x="266.44" y="0" class="st4 st1 st2">genomicDN</tspan><tspan x="331.25" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomi</tspan></text>
+<rect x="170.53" y="104.47" class="st0" width="717.64" height="92.63"/>
+<text transform="matrix(1 0 0 1 170.5282 112.1404)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomic[9bp gap]</tspan><tspan x="259.24" y="0" class="st3 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+<rect x="736.35" y="104.47" class="st0" width="580" height="44.43"/>
+<text transform="matrix(1 0 0 1 736.3466 112.1407)"><tspan x="0" y="0" class="st5 st1 st2">5’ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</tspan><tspan x="259.24" y="0" class="st6 st1 st2">genomicDN</tspan><tspan x="324.05" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan></text>
+<rect x="829.56" y="49.03" class="st0" width="433.08" height="76.89"/>
+<text transform="matrix(-1 0 0 -1 1262.6455 118.2473)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomicD[9bp gap]</tspan><tspan x="266.44" y="0" class="st5 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+<rect x="662.19" y="68.19" transform="matrix(0.7071 -0.7071 0.7071 0.7071 162.6825 567.696)" class="st0" width="208.84" height="38.57"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 684.6129 153.0903)" class="st1 st2">DNA cleavage</text>
+<g>
+	<rect x="249.42" y="796.52" class="st0" width="222.86" height="38.57"/>
+	<text transform="matrix(1 0 0 1 249.4185 802.2678)"><tspan x="0" y="0" class="st1 st7">filled in by 72° </tspan><tspan x="0" y="10.8" class="st1 st7">extension</tspan></text>
+	<rect x="1101.29" y="777.23" class="st0" width="222.86" height="38.57"/>
+	<text transform="matrix(1 0 0 1 1101.2891 782.9821)"><tspan x="0" y="0" class="st1 st7">filled in by 72° </tspan><tspan x="0" y="10.8" class="st1 st7">extension</tspan></text>
+	<rect x="216.15" y="783.87" class="st0" width="976.04" height="44.43"/>
+	<text transform="matrix(1 0 0 1 216.1475 791.5399)"><tspan x="0" y="0" class="st5 st1 st2">5’ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</tspan><tspan x="259.24" y="0" class="st6 st1 st2">genomicDN</tspan><tspan x="324.05" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan><tspan x="525.69" y="0" class="st1 st2">DNAgenomicDNAgenomic[9bp gap]</tspan><tspan x="734.52" y="0" class="st3 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+	<rect x="302.14" y="717.5" class="st0" width="914.79" height="87.37"/>
+	<text transform="matrix(-1 0 0 -1 1216.9502 797.2258)"><tspan x="0" y="0" class="st3 st1 st2">5’ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</tspan><tspan x="266.44" y="0" class="st4 st1 st2">genomicDN</tspan><tspan x="331.25" y="0" class="st1 st2">AgenomicDNAgenomicgenomicDNAgenomicDNAgenomicDNA[9bp gap]</tspan><tspan x="741.72" y="0" class="st5 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+</g>
+<rect x="731.03" y="245.97" class="st0" width="586.42" height="19.68"/>
+<text transform="matrix(1 0 0 1 731.0076 253.6316)"><tspan x="0" y="0" class="st3 st1 st2">5’ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</tspan><tspan x="266.44" y="0" class="st4 st1 st2">genomicDN</tspan><tspan x="331.25" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomi</tspan></text>
+<rect x="539.01" y="174.79" class="st0" width="717.64" height="92.63"/>
+<text transform="matrix(-1 0 0 -1 1256.6494 259.7492)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomic[9bp gap]</tspan><tspan x="259.24" y="0" class="st3 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+<rect x="110.83" y="222.99" class="st0" width="580" height="44.43"/>
+<text transform="matrix(-1 0 0 -1 690.8311 259.7492)"><tspan x="0" y="0" class="st5 st1 st2">5’ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</tspan><tspan x="259.24" y="0" class="st6 st1 st2">genomicDN</tspan><tspan x="324.05" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan></text>
+<rect x="164.53" y="245.97" class="st0" width="433.08" height="76.89"/>
+<text transform="matrix(1 0 0 1 164.5311 253.6414)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomicD[9bp gap]</tspan><tspan x="266.44" y="0" class="st5 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+<rect x="665.73" y="203.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 67.8943 609.8879)" class="st0" width="208.84" height="38.57"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 688.1473 288.6059)" class="st1 st2">DNA cleavage</text>
+<rect x="730.48" y="366.27" class="st0" width="586.42" height="19.68"/>
+<text transform="matrix(1 0 0 1 730.4564 373.9279)"><tspan x="0" y="0" class="st3 st1 st2">5’ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</tspan><tspan x="266.44" y="0" class="st4 st1 st2">genomicDN</tspan><tspan x="331.25" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomi</tspan></text>
+<rect x="538.46" y="295.09" class="st0" width="717.64" height="92.63"/>
+<text transform="matrix(-1 0 0 -1 1256.0986 380.0461)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomic[9bp gap]</tspan><tspan x="259.24" y="0" class="st3 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+<rect x="117.28" y="343.28" class="st0" width="580" height="44.43"/>
+<text transform="matrix(-1 0 0 -1 697.2529 380.0451)"><tspan x="0" y="0" class="st3 st1 st2">5’ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</tspan><tspan x="266.44" y="0" class="st6 st1 st2">genomicDN</tspan><tspan x="331.25" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan></text>
+<rect x="163.98" y="366.27" class="st0" width="433.08" height="76.89"/>
+<text transform="matrix(1 0 0 1 163.9798 373.9377)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomicD[9bp gap]</tspan><tspan x="266.44" y="0" class="st3 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+<rect x="662.98" y="324" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -17.9738 643.1764)" class="st0" width="208.84" height="38.57"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 685.3939 408.9018)" class="st1 st2">DNA cleavage</text>
+<g>
+	<rect x="715.82" y="507.6" class="st0" width="580" height="44.43"/>
+	<text transform="matrix(1 0 0 1 715.8151 515.2698)"><tspan x="0" y="0" class="st5 st1 st2">5’ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</tspan><tspan x="259.24" y="0" class="st6 st1 st2">genomicDN</tspan><tspan x="324.05" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan></text>
+	<rect x="809.03" y="452.16" class="st0" width="433.08" height="76.89"/>
+	<text transform="matrix(-1 0 0 -1 1242.1123 521.3752)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomicD[9bp gap]</tspan><tspan x="266.44" y="0" class="st5 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+</g>
+<rect x="641.66" y="471.31" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -128.3862 671.2514)" class="st0" width="208.84" height="38.57"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 664.0811 556.2202)" class="st1 st2">DNA cleavage</text>
+<g>
+	<rect x="96.48" y="484.99" class="st0" width="580" height="44.43"/>
+	<text transform="matrix(-1 0 0 -1 676.4814 521.7531)"><tspan x="0" y="0" class="st5 st1 st2">5’ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</tspan><tspan x="259.24" y="0" class="st6 st1 st2">genomicDN</tspan><tspan x="324.05" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan></text>
+	<rect x="150.18" y="507.98" class="st0" width="433.08" height="76.89"/>
+	<text transform="matrix(1 0 0 1 150.1825 515.6458)"><tspan x="0" y="0" class="st1 st2">genomicDNAgenomicDNAgenomicD[9bp gap]</tspan><tspan x="266.44" y="0" class="st5 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+</g>
+<rect x="103.94" y="634.96" class="st0" width="812.07" height="66.84"/>
+<text transform="matrix(1 0 0 1 103.9429 642.6318)"><tspan x="0" y="0" class="st1 st2">After DNA fragmentation, the following orientations of adapters is necessary to amplify the DNA. Note that a 72° </tspan><tspan x="0" y="14.4" class="st1 st2">extention step preceeds denaturation in the PCR protocol in order to generate the complement sequence of the PCR </tspan><tspan x="0" y="28.8" class="st1 st2">primers. The sequencing primers are also included (Read 1 sequencing primer is PE1). Therefore, if PE1 or PE2 </tspan><tspan x="0" y="43.2" class="st1 st2">aligns to the plus strand a shift of +4 is needed and a shift or -5 is needed if either PE1 or PE2 aligns to the </tspan><tspan x="0" y="57.6" class="st1 st2">minus strand.</tspan></text>
+<rect x="16.26" y="897.35" class="st0" width="382.14" height="97.14"/>
+<text transform="matrix(1 0 0 1 16.2662 905.0073)"><tspan x="0" y="0" class="st1 st2">i7 PCR primer</tspan><tspan x="0" y="14.4" class="st1 st2">CAAGCAGAAGACGGCATACGAGAT[i7]GTCTCGTGGGCTCGG</tspan></text>
+<rect x="1019.59" y="889.63" class="st0" width="392.14" height="89.29"/>
+<text transform="matrix(-1 0 0 -1 1411.73 971.2433)"><tspan x="0" y="0" class="st1 st2">i5 PCR primer</tspan><tspan x="0" y="14.4" class="st1 st2">AATGATACGGCGACCACCGAGATCTACAC[i5]TCGTCGGCAGCGTC</tspan></text>
+<rect x="901.77" y="981.5" class="st0" width="488.96" height="26"/>
+<text transform="matrix(-1 0 0 -1 1390.7241 999.8298)" class="st1 st2">Read 1 sequencing primer: 5&apos;- TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG -3&apos;</text>
+<rect x="0.01" y="880.7" class="st0" width="523.57" height="17.86"/>
+<text transform="matrix(1 0 0 1 5.493164e-03 888.3662)" class="st1 st2">Read 2 sequencing primer: 5&apos;- GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG -3&apos;</text>
+<g>
+	<rect x="939.47" y="895.73" class="st0" width="222.86" height="38.57"/>
+	<text transform="matrix(-1 0 0 -1 1162.3237 928.5451)"><tspan x="0" y="0" class="st1 st7">filled in by 72° </tspan><tspan x="0" y="10.8" class="st1 st7">extension</tspan></text>
+	<rect x="87.6" y="915.01" class="st0" width="222.86" height="38.57"/>
+	<text transform="matrix(-1 0 0 -1 310.4536 947.8322)"><tspan x="0" y="0" class="st1 st7">filled in by 72° </tspan><tspan x="0" y="10.8" class="st1 st7">extension</tspan></text>
+	<rect x="219.56" y="902.51" class="st0" width="976.04" height="44.43"/>
+	<text transform="matrix(-1 0 0 -1 1195.5957 939.2746)"><tspan x="0" y="0" class="st5 st1 st2">5’ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</tspan><tspan x="259.24" y="0" class="st6 st1 st2">genomicDN</tspan><tspan x="324.05" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan><tspan x="525.69" y="0" class="st1 st2">DNAgenomicDNAgenomic[9bp gap]</tspan><tspan x="734.52" y="0" class="st3 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+	<rect x="194.81" y="925.94" class="st0" width="914.79" height="87.37"/>
+	<text transform="matrix(1 0 0 1 194.7926 933.5888)"><tspan x="0" y="0" class="st3 st1 st2">5’ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</tspan><tspan x="266.44" y="0" class="st4 st1 st2">genomicDN</tspan><tspan x="331.25" y="0" class="st1 st2">AgenomicDNAgenomicgenomicDNAgenomicDNAgenomicDNA[9bp gap]</tspan><tspan x="741.72" y="0" class="st5 st1 st2">CTGTCTCTTATACACATCT</tspan></text>
+</g>
+<text transform="matrix(1 0 0 1 605.5684 777.2315)" class="st1 st2">reference genome plus strand</text>
+<text transform="matrix(-1 0 0 -1 809.0293 813.4133)" class="st1 st2">reference genome minus strand</text>
+<text transform="matrix(-1 0 0 -1 810.7285 954.7785)" class="st1 st2">reference genome minus strand</text>
+<text transform="matrix(1 0 0 1 607.2676 918.6064)" class="st1 st2">reference genome plus strand</text>
+<g>
+	<rect x="428.12" y="30.01" class="st0" width="580" height="44.43"/>
+	<text transform="matrix(-1 0 0 -1 1008.125 66.7707)"><tspan x="0" y="0" class="st6 st1 st2">                                    genomicDN</tspan><tspan x="324.05" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomic</tspan></text>
+	<rect x="481.83" y="53" class="st0" width="433.08" height="76.89"/>
+	<text transform="matrix(1 0 0 1 481.8258 60.663)" class="st1 st2">genomicDNAgenomicDNAgenomicD  </text>
+	<text transform="matrix(-1 0 0 -1 943.209 65.9006)" class="st1 st2">genomicDNAgenomicDNAgenomic</text>
+	<text transform="matrix(1 0 0 1 683.7452 61.3994)"><tspan x="0" y="0" class="st4 st1 st2">genomicDN</tspan><tspan x="64.81" y="0" class="st1 st2">AgenomicDNAgenomicDNAgenomi</tspan></text>
+</g>
+<rect x="347.52" y="56.92" class="st0" width="147.65" height="17.96"/>
+<text transform="matrix(1 0 0 1 347.5167 64.5897)" class="st1 st2">reference genome:</text>
+</svg>
