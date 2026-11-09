@@ -1,0 +1,9 @@
+# Site navigation. Edit here once; every page updates.
+- title: "Publications"
+  url: "/about/"
+- title: "Analysis Vignettes"
+  url: "/vignettes/"
+- title: "Lab Members"
+  url: "/lab-members/"
+- title: "Teaching"
+  url: "/teaching/"

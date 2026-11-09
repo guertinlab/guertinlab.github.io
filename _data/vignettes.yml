@@ -1,0 +1,26 @@
+# Analysis vignettes.
+# Add one by copying a block; put the PDF in wp-content/uploads/.
+
+- title: "RNA-seq analysis vignette"
+  image: "/wp-content/uploads/2021/05/RNA_seq_workflow.svg"
+  links:
+    - text: "PDF"
+      url: "/wp-content/uploads/2021/05/RNA-seq_vignette_Guertin.pdf"
+
+- title: "ChIP-seq analysis vignette"
+  image: "/wp-content/uploads/2021/05/hsf_logo.svg"
+  links:
+    - text: "PDF"
+      url: "/wp-content/uploads/2021/05/Genomic_ChIP_RNA-seq_analysis.pdf"
+
+- title: "ATAC-seq analysis vignette"
+  image: "/wp-content/uploads/2021/05/Tn5_illumina_adapters_ref_genome-1.svg"
+  links:
+    - text: "PDF"
+      url: "/wp-content/uploads/2021/05/Genomic_ATAC-seq_analysis_190912.pdf"
+
+- title: "PRO-seq analysis vignette"
+  image: "/wp-content/uploads/2021/05/f1_peppro_workflow.svg"
+  links:
+    - text: "PDF"
+      url: "/wp-content/uploads/2021/05/Genomic_PRO-seq_analysis.pdf"

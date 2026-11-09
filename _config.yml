@@ -1,0 +1,15 @@
+title: Guertin Lab
+tagline: genomics and gene regulation
+description: >-
+  Guertin Lab — genomics and gene regulation. Transcription regulation,
+  chromatin dynamics, and regulatory genomics methods.
+url: "https://guertinlab.github.io"
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+# wp-content and wp-includes hold images, PDFs and the theme stylesheet;
+# they are copied through to the built site untouched.
+include:
+  - wp-content
+  - wp-includes

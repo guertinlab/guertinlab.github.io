@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{{ content }}
+{% for v in site.data.vignettes %}
+<hr class="wp-block-separator is-style-wide"/>
+<div class="wp-block-media-text alignwide is-vertically-aligned-center" style="grid-template-columns:24% auto">
+  {% if v.image %}<figure class="wp-block-media-text__media"><img src="{{ v.image }}" alt=""/></figure>{% endif %}
+  <div class="wp-block-media-text__content">
+    <p>{{ v.title }}:{% for l in v.links %} <a href="{{ l.url }}" target="_blank" rel="noreferrer noopener">{{ l.text }}</a>{% endfor %}</p>
+  </div>
+</div>
+{% endfor %}

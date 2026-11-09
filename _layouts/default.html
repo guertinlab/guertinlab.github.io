@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<title>
-Teaching | Guertin Lab	</title>
+<title>{% if page.url == '/' %}{{ site.title }} | {{ site.tagline }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
 <link href="https://gmpg.org/xfn/11" rel="profile"/>
 <link href="/wp-content/themes/twentyten/style.css" media="all" rel="stylesheet"/>
 <meta content="max-image-preview:large" name="robots"/>
@@ -15,7 +14,7 @@ Teaching | Guertin Lab	</title>
 <link href="/wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css" id="godaddy-styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="/wp-content/themes/twentyten/blocks.css" id="twentyten-block-style-css" media="all" rel="stylesheet" type="text/css"/>
 <meta content="WordPress 5.7.14" name="generator"/>
-<link href="/teaching/" rel="canonical"/>
+<link href="/" rel="canonical"/>
 <!--Customizer CSS-->
 <style type="text/css">
 #footer #site-generator>a { display:none; }#site-generator a {
@@ -54,43 +53,31 @@ background:none repeat scroll 0 0 #001641;
 
 		</style>
 </head>
-<body class="page-template page-template-onecolumn-page page-template-onecolumn-page-php page page-id-382 custom-background">
+<body class="{% if page.url == '/' %}home {% endif %}page-template page-template-onecolumn-page page-template-onecolumn-page-php page custom-background">
 <div class="hfeed" id="wrapper">
 <a class="screen-reader-text skip-link" href="#content">Skip to content</a>
 <div id="header">
 <div id="masthead">
 <div id="branding" role="banner">
-<div id="site-title">
+<h1 id="site-title">
 <span>
-<a href="/" rel="home">Guertin Lab</a>
+<a aria-current="page" href="/" rel="home">Guertin Lab</a>
 </span>
-</div>
+</h1>
 <div id="site-description">genomics and gene regulation</div>
 <img alt="Guertin Lab" height="" src="/wp-content/uploads/2021/07/lab_website_logo2-5.svg" width=""/> </div><!-- #branding -->
 <div id="access" role="navigation">
-<div class="menu-header"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39" id="menu-item-39"><a href="/about/" rel="noopener" target="_blank" title="Publications">Publications</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103" id="menu-item-103"><a href="/vignettes/">Analysis Vignettes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119" id="menu-item-119"><a href="/lab-members/">Lab Members</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-382 current_page_item menu-item-383" id="menu-item-383"><a aria-current="page" href="/teaching/">Teaching</a></li>
-</ul></div> </div><!-- #access -->
+<div class="menu-header"><ul class="menu" id="menu-primary-menu">{% for item in site.data.nav %}<li class="page_item{% if page.url == item.url %} current_page_item{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}</ul></div> </div><!-- #access -->
 </div><!-- #masthead -->
 </div><!-- #header -->
 <div id="main">
 <div class="one-column" id="container">
-<div id="content" role="main">
-<div class="post-382 page type-page status-publish hentry" id="post-382">
-<h1 class="entry-title">Teaching</h1>
+<div id="content" role="main"><div class="page type-page status-publish hentry">
+{% if page.url != '/' %}<h1 class="entry-title">{{ page.title }}</h1>{% endif %}
 <div class="entry-content">
-<h3>Course Description</h3>
-<p>Coupling classical molecular biology techniques to high throughput sequencing for nucleic acid detection has revolutionized how scientists study biology. MEDS5420 introduces students to the command line and gradually builds concepts and skills so that students become capable of building workflows to process and analyze high throughput sequencing data. After basic concepts and command line competency are established, the course focuses on the analysis of ChIP-seq, RNA-seq, and ATAC-seq data. Students learn to use many common genomics software packages to perform such tasks as genome alignment, peak calling, motif analysis, and differential expression analysis. Throughout the course students are introduced to the statistical computing language R and perform analyses and visualization using an R interface.    </p>
-<h3>Instructor Thoughts</h3>
-<p>The study of biology has been completely transformed with the data revolution. Analysis is often rate-limiting scientific progress, not data acquisition. Classically trained molecular biologists, biochemists, and cell biologists are often the best equipped to articulate and ask the most relevant questions regarding a dataset, but they may lack the expertise to carry out the appropriate analyses. The mere thought of analyzing such massive datasets can be intimidating. The main goal of this class is to prepare students so that they are comfortable navigating and analyzing massive datasets and to effectively remove any intimidation barrier.  </p>
-<p>The 2023 materials and lectures are all available at the following link: <a data-id="http://guertinlab.cam.uchc.edu/meds5420_2023/MEDS5420_2023_landing.html" data-type="URL" href="http://guertinlab.cam.uchc.edu/meds5420_2023/MEDS5420_2023_landing.html" rel="noreferrer noopener" target="_blank">MEDS5420 2023</a></p>
+{{ content }}
 </div><!-- .entry-content -->
-</div><!-- #post-382 -->
-<div id="comments">
-</div><!-- #comments -->
-</div><!-- #content -->
+</div></div><!-- #content -->
 </div><!-- #container -->
 </div><!-- #main -->
 <div id="footer" role="contentinfo">
@@ -99,10 +86,7 @@ background:none repeat scroll 0 0 #001641;
 <a href="/" rel="home">
 					Guertin Lab				</a>
 </div><!-- #site-info -->
-<div id="site-generator">
-<a class="imprint" href="https://wordpress.org/" title="Semantic Personal Publishing Platform">
-					Proudly powered by WordPress.				</a>
-</div><!-- #site-generator -->
+<!-- #site-generator -->
 </div><!-- #colophon -->
 </div><!-- #footer -->
 </div><!-- #wrapper -->

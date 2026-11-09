@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{{ content }}
+{% for pub in site.data.publications %}
+<hr class="wp-block-separator is-style-wide"/>
+<div class="wp-block-media-text alignwide is-vertically-aligned-center" style="grid-template-columns:24% auto">
+  {% if pub.image %}<figure class="wp-block-media-text__media"><img src="{{ pub.image }}" alt="" loading="lazy"/></figure>{% endif %}
+  <div class="wp-block-media-text__content">
+    <p>{{ pub.title }}. <em>{{ pub.journal }}</em>. {{ pub.citation }}{% for l in pub.links %} <a href="{{ l.url }}" target="_blank" rel="noreferrer noopener">{{ l.text }}</a>{% endfor %}</p>
+  </div>
+</div>
+{% endfor %}
