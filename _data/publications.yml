@@ -35,7 +35,7 @@
       url: "https://genesdev.cshlp.org/content/38/21-24/931.full.pdf"
 
 - title: "TRPS1 modulates chromatin accessibility to regulate estrogen receptor alpha (ER) binding and ER target gene expression in luminal breast cancer cells"
-  journal: "PLOS Genetics,"
+  journal: "PLOS Genetics"
   citation: "Scott TG, Sathyan KM, Gioeli D, Guertin MJ 10: 1371, 2024."
   image: "/wp-content/uploads/2025/02/TRPS1-2-1024x789.png"
   links:
@@ -44,7 +44,7 @@
 
 - title: "Kinetic networks identify TWIST2 as a key regulatory node in adipogenesis"
   journal: "Genome Research"
-  citation: ", Dutta AB, Lank DS, Przanowska RK, Przanowski P, Wang L, Nguyen B, Walavalkar NM, Duarte FM, Guertin MJ 33: 314-331, 2023."
+  citation: "Dutta AB, Lank DS, Przanowska RK, Przanowski P, Wang L, Nguyen B, Walavalkar NM, Duarte FM, Guertin MJ 33: 314-331, 2023."
   image: "/wp-content/uploads/2023/04/GR_dutta-1024x838.png"
   links:
     - text: "PDF"
@@ -52,7 +52,7 @@
 
 - title: "ANKLE1 cleaves mitochondrial DNA and contributes to cancer risk by promoting apoptosis resistance and metabolic dysregulation"
   journal: "Communications Biology"
-  citation: ", Przanowski P, Przanowska RK, Guertin MJ 6: 231, 2023."
+  citation: "Przanowski P, Przanowska RK, Guertin MJ 6: 231, 2023."
   image: "/wp-content/uploads/2023/04/CB_Piotr-1024x581.png"
   links:
     - text: "PDF"
@@ -60,7 +60,7 @@
 
 - title: "Correction of transposase sequence bias in ATAC-seq data with rule ensemble modeling"
   journal: "NAR Genom Bioinform"
-  citation: ", Wolpe JB, Martins AL, Guertin MJ 5:2, 2023."
+  citation: "Wolpe JB, Martins AL, Guertin MJ 5:2, 2023."
   image: "/wp-content/uploads/2023/04/Wolpe_ATAC-1-1024x939.png"
   links:
     - text: "PDF"
@@ -68,7 +68,7 @@
 
 - title: "Processing and evaluating the quality of genome-wide nascent transcription profiling libraries"
   journal: "bioRχiv"
-  citation: ", Scott TG, Martins AL, Guertin MJ 2022.12.14.520463, 2022."
+  citation: "Scott TG, Martins AL, Guertin MJ 2022.12.14.520463, 2022."
   image: "/wp-content/uploads/2023/04/Scott_Biorxiv-1024x815.png"
   links:
     - text: "PDF"
@@ -76,7 +76,7 @@
 
 - title: "Distinct MUNC lncRNA structural domains regulate transcription of different promyogenic factors"
   journal: "Cell Reports"
-  citation: ", Przanowska RK, Weidmann CA, Saha S, Cichewicz MA, Jensen KN, Przanowski P, Irving PS, Janes KA, Guertin MJ, Weeks KM, Dutta A. 38:110361, 2022."
+  citation: "Przanowska RK, Weidmann CA, Saha S, Cichewicz MA, Jensen KN, Przanowski P, Irving PS, Janes KA, Guertin MJ, Weeks KM, Dutta A. 38:110361, 2022."
   image: "/wp-content/uploads/2023/04/munc.png"
   links:
     - text: "PDF"
@@ -84,7 +84,7 @@
 
 - title: "Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA"
   journal: "Nature Communications"
-  citation: ", Shengen SH, Liu L, Li Q, Ma W, Guertin MJ, Meyer CA, Dang K, Zhang T, Zang C. 13:5533, 2022."
+  citation: "Shengen SH, Liu L, Li Q, Ma W, Guertin MJ, Meyer CA, Dang K, Zhang T, Zang C. 13:5533, 2022."
   image: "/wp-content/uploads/2023/04/selma.png"
   links:
     - text: "PDF"
@@ -92,7 +92,7 @@
 
 - title: "PEPPRO: Quality control and processing of nascent RNA profiling data"
   journal: "Genome Biology"
-  citation: ", Smith JP, Dutta AB, Sathyan KM, Guertin MJ*, Sheffield NC* 22: 155, 2021."
+  citation: "Smith JP, Dutta AB, Sathyan KM, Guertin MJ*, Sheffield NC* 22: 155, 2021."
   image: "/wp-content/uploads/2021/05/f1_peppro_workflow.svg"
   links:
     - text: "PDF"
@@ -100,7 +100,7 @@
 
 - title: "Comparative interactomes of HSF1 in stress and disease reveal a role for CTCF in HSF1-mediated gene regulation"
   journal: "Journal of Biological Chemistry"
-  citation: ", Burchfiel ET, Vihervaara A, Guertin MJ, Gomez-Pastor R, Thiele DJ, 296:100097, 2021."
+  citation: "Burchfiel ET, Vihervaara A, Guertin MJ, Gomez-Pastor R, Thiele DJ, 296:100097, 2021."
   image: "/wp-content/uploads/2021/07/HSF_interacting-665x1024.png"
   links:
     - text: "PDF"
@@ -108,7 +108,7 @@
 
 - title: "Defining data-driven primary transcript annotations with primaryTranscriptAnnotation in R"
   journal: "Bioinformatics"
-  citation: ", Anderson WD, Duarte FM, Civelek M, GuertinMJ 36(9):2926-2928, 2020."
+  citation: "Anderson WD, Duarte FM, Civelek M, Guertin MJ 36(9):2926-2928, 2020."
   image: "/wp-content/uploads/2021/07/primaryTXN-1024x701.png"
   links:
     - text: "PDF"
@@ -116,14 +116,14 @@
 
 - title: "ARF-AID: A Rapidly Inducible Protein Degradation System That Preserves Basal Endogenous Protein Levels"
   journal: "Current Protocols in Molecular Biology"
-  citation: ", Sathyan KM, Scott TG, Guertin MJ, 132(1):e124, 2020."
+  citation: "Sathyan KM, Scott TG, Guertin MJ, 132(1):e124, 2020."
   image: "/wp-content/uploads/2021/07/Current_prtocols-814x1024.png"
   links:
     - text: "PDF"
       url: "https://currentprotocols.onlinelibrary.wiley.com/doi/epdf/10.1002/cpmb.124"
 
 - title: "An improved auxin-inducible degron system preserves native protein levels and enables rapid and specific protein depletion"
-  journal: "Genes and Development,"
+  journal: "Genes and Development"
   citation: "Sathyan KM, McKenna BD, Anderson WD, Duarte FM, Core L, Guertin MJ. 33(19-20):1441-1455. 2019."
   image: "/wp-content/uploads/2021/07/Screen-Shot-2021-07-01-at-11.04.58-AM-1024x758.png"
   links:
@@ -131,7 +131,7 @@
       url: "http://genesdev.cshlp.org/content/33/19-20/1441.full.pdf"
 
 - title: "Parallel factor ChIP provides essential internal control for quantitative differential ChIP-seq"
-  journal: "Nucleic Acids Research,"
+  journal: "Nucleic Acids Research"
   citation: "Guertin MJ, Cullen AE, Markowetz F, Holding AN. 46(12):e75. 2018."
   image: "/wp-content/uploads/2021/07/pfChIP-1024x785.png"
   links:
@@ -139,7 +139,7 @@
       url: "https://academic.oup.com/nar/article-pdf/46/12/e75/25844541/gky252.pdf"
 
 - title: "Universal correction of enzymatic sequence bias reveals molecular signatures of protein/DNA interactions"
-  journal: "Nucleic Acids Research,"
+  journal: "Nucleic Acids Research"
   citation: "Martins AL, Walavalkar NM, Anderson WD, Zang C, Guertin MJ. 46(2):e9. 2018."
   image: "/wp-content/uploads/2021/07/seqoutbias-1024x858.png"
   links:
@@ -147,7 +147,7 @@
       url: "https://academic.oup.com/nar/article-pdf/46/2/e9/23595177/gkx1053.pdf"
 
 - title: "BART: a transcription factor prediction tool with query gene sets or epigenomic profiles. Wang Z, Civelek M, Miller CL, Sheffield NC, Guertin MJ, Zang C"
-  journal: "Bioinformatics."
+  journal: "Bioinformatics"
   citation: "34(16):2867-2869, 2018."
   image: "/wp-content/uploads/2021/07/BART-1024x535.png"
   links:
@@ -203,7 +203,7 @@
       url: "https://genesdev.cshlp.org/content/30/15/1731.full.pdf"
 
 - title: "Mechanisms by which transcription factors gain access to target sequence elements in chromatin"
-  journal: "Curr Opin Genet Dev,"
+  journal: "Curr Opin Genet Dev"
   citation: "Guertin MJ, Lis JT. 23(2):116-23. 2013."
   image: "/wp-content/uploads/2021/07/Screen-Shot-2021-07-01-at-11.19.31-AM-717x1024.png"
   links:
