@@ -2,6 +2,14 @@
 # Add a paper by copying a block and editing the fields.
 # 'image' and 'links' are optional.
 
+- title: "Molecular Mechanisms of Transcription Factors with Dual Activator and Repressor Functions"
+  journal: "Molecular and Cellular Biology"
+  citation: "Dong J and Guertin MJ 46: 632–640, 2026."
+  image: "/wp-content/uploads/2025/03/repressor.png"
+  links:
+    - text: "PDF"
+      url: "/wp-content/uploads/2025/03/Dong_review.pdf"
+      
 - title: "Genome-wide dynamic nascent transcript profiles reveal that most paused RNA polymerases terminate"
   journal: "Nucleic Acids Research"
   citation: "Mukherjee R and Guertin MJ 54: gkag128, 2026."
