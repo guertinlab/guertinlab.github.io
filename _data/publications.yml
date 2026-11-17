@@ -3,12 +3,12 @@
 # 'image' and 'links' are optional.
 
 - title: "Genome-wide dynamic nascent transcript profiles reveal that most paused RNA polymerases terminate"
-  journal: "bioRχiv"
-  citation: "Mukherjee R and Guertin MJ 2025.03.27.645809v1, 2025."
+  journal: "Nucleic Acids Research"
+  citation: "Mukherjee R and Guertin MJ 54: gkag128, 2026."
   image: "/wp-content/uploads/2025/03/Screenshot-2025-03-29-at-9.33.09 AM-1024x435.png"
   links:
     - text: "PDF"
-      url: "https://www.biorxiv.org/content/10.1101/2025.03.27.645809v1.full.pdf"
+      url: "https://academic.oup.com/nar/article-pdf/54/4/gkag128/67071976/gkag128.pdf"
 
 - title: "ZNF143 binds DNA and stimulates transcription initiation to activate and repress direct target genes"
   journal: "Nucleic Acids Research"
