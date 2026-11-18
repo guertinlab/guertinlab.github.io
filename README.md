@@ -4,7 +4,7 @@ Guertin Lab website (genomics and gene regulation), at <https://guertinlab.githu
 
 ## Editing
 
-### Change wording on a page
+### pages
 
 
 | File | Page |
