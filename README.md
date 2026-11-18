@@ -1,17 +1,11 @@
 # guertinlab.github.io
 
-Guertin Lab website (genomics and gene regulation), built by Jekyll and served
-by GitHub Pages at <https://guertinlab.github.io>.
-
-GitHub runs the build automatically on every push — there is nothing to install
-and nothing to run locally.
+Guertin Lab website (genomics and gene regulation), at <https://guertinlab.github.io>.
 
 ## Editing
 
 ### Change wording on a page
 
-Each page is a markdown file. Edit it on GitHub (pencil icon) and commit; the
-site updates in about a minute.
 
 | File | Page |
 | --- | --- |
@@ -21,13 +15,10 @@ site updates in about a minute.
 | `lab-members.md` | Lab Members |
 | `teaching.md` | Teaching |
 
-The block at the top between `---` lines is *front matter* — it sets the page
-title and URL. Leave it alone; edit the text below it.
 
 ### Add a publication
 
-Edit `_data/publications.yml`. Copy an existing block to the top and change the
-fields — newest first:
+Edit `_data/publications.yml`:
 
 ```yaml
 - title: "Paper title without a trailing period"
@@ -49,8 +40,7 @@ Same pattern in `_data/vignettes.yml`.
 
 ### Add a lab member or a photo
 
-Edit `lab-members.md`. Upload the image via **Add file → Upload files** into
-`wp-content/uploads/`, then reference it:
+Edit `lab-members.md`:
 
 ```html
 <figure class="wp-block-image size-large">
@@ -61,9 +51,7 @@ Edit `lab-members.md`. Upload the image via **Add file → Upload files** into
 
 ### Change the navigation bar
 
-Edit `_data/nav.yml` — once. Every page picks it up. This was the main reason
-for moving off the flat HTML mirror, where the nav was duplicated in all five
-files.
+Edit `_data/nav.yml` — once. 
 
 ## Layout of this repository
 
@@ -80,13 +68,4 @@ files.
 | `*.md` | Page content |
 | `wp-content/`, `wp-includes/` | Images, PDFs, and the Twenty Ten stylesheet |
 
-The styling is the original WordPress Twenty Ten theme CSS, carried over
-unchanged, so the site looks the same as it did before the migration. Image and
-PDF URLs were also left at their original paths, so any external link to a
-hosted PDF still resolves.
 
-## If a build fails
-
-GitHub emails you and the site keeps serving the last good version. The usual
-causes are a stray tab or a missing quote in a `.yml` file. Check the Actions
-tab in this repo for the error, or revert the commit.
